@@ -42,4 +42,4 @@
 ### Cybersecurity
 - [ ] [Cryptography I](https://imp.i384100.net/DVm9ej)
 
-## Quant Finance
+### Quant Finance
