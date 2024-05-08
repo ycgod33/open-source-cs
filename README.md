@@ -35,7 +35,9 @@
 ### Data Structures & Algorithms (DSA) (In C & Python)
 - [ ] *[Data Structures and Performance](https://imp.i384100.net/oevm0b)*
 
-### C++/Rust/Z/Carbon Programming
+### C++ Programming
+
+### Modern C++ Alternatives (Rust/Z/ Carbon)
 
 ### Networking
 
