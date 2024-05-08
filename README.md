@@ -1,4 +1,4 @@
-## The Open Source Computer Science Degree (Personalized) 
+## The Open Source Computer Science Degree (Personalized) (Learning Only - Projects Are Still Important)
 
 ### Computer Architecture
 - [ ] [Building A 8-bit Computer](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
@@ -35,9 +35,11 @@
 ### Data Structures & Algorithms (DSA) (In C & Python)
 - [ ] *[Data Structures and Performance](https://imp.i384100.net/oevm0b)*
 
-### C ++ Programming
+### C++/Rust/Z/Carbon Programming
 
 ### Networking
 
 ### Cybersecurity
 - [ ] [Cryptography I](https://imp.i384100.net/DVm9ej)
+
+## Quant Finance
