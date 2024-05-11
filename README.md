@@ -21,6 +21,9 @@
 - [ ] [The Unix Workbench](https://imp.i384100.net/QOXZ4P)
 
 ### Machine Learning
+ - [ ] Andrew NG Machine Learning (3 Parts)
+ - [ ] Andrew NG Deep Learning 
+ - [ ] Andrej Kapathy Neural Networks
 
 ### LLMs - Training, Inferencing, Expert Systems, Etc.
 
@@ -29,15 +32,16 @@
 
 ### Mathematics
  - [ ] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
+ - [ ] [Intro To Calculus](https://www.3blue1brown.com/topics/calculus)
  - [ ] Calculus AB
  - [ ] Calculus BC
- - [ ] Differential Equations Basics
+ - [ ] [Differential Equations Basics](https://www.3blue1brown.com/topics/differential-equations)
+ - [ ] [Intermediate Probability](https://www.3blue1brown.com/topics/probability)
  - [ ] Multivariable Calculus
  - [ ] Vector Calculus
  - [ ] For Fun
    - [ ] Game Theory
-   - [ ] Topology
-   - [ ] Group Thery
+   - [ ] [Topology](https://www.3blue1brown.com/topics/topology)
 
 ### Further Python
  - [ ] [Advanced Operators & Tools](https://www.geeksforgeeks.org/advanced-python-tutorials/)
