@@ -2,11 +2,17 @@
 
 ### C Programming
 - [ ] [CS50 (Very Basic)](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
-- [ ] 
+- [ ] C Programming : A Modern Approach
+- [ ] Projects
+  - [ ] Image Viewer
+  - [ ] Python Interpreter
+  - [ ] Compiler
+  - [ ] Text Editor
 
 ### Computer Architecture
+- [ ] [Computer Sciency Theory](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [ ] [Building A 8-bit Computer](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
-- [ ] [Build a Modern Computer from First Principles: From Nand to Tetris](https://imp.i384100.net/6b13dV)
+- [ ] [Build a Modern Computer from First Principles: From Nand to Tetris I](https://imp.i384100.net/6b13dV)
 - [ ] [Build a Modern Computer from First Principles: From Nand to Tetris II](https://imp.i384100.net/dovNVq)
 
 ### Operating Systems, Kernels, Linux & BSD
@@ -22,12 +28,16 @@
 - [ ] [Computer Science: Algorithms, Theory, and Machines](https://imp.i384100.net/7mVROr)
 
 ### Mathematics
-- [ ] [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
-- [ ] [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
-- [ ] [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)
-- [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
-- [ ] [Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0)
-- [ ] [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics)
+ - [ ] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
+ - [ ] Calculus AB
+ - [ ] Calculus BC
+ - [ ] Differential Equations Basics
+ - [ ] Multivariable Calculus
+ - [ ] Vector Calculus
+ - [ ] For Fun
+   - [ ] Game Theory
+   - [ ] Topology
+   - [ ] Group Thery
 
 ### Further Python
  - [ ] [Advanced Operators & Tools](https://www.geeksforgeeks.org/advanced-python-tutorials/)
@@ -41,13 +51,19 @@
   - [ ] [Algorithms, Part II (Princeton)](https://www.coursera.org/learn/algorithms-part2)
   - [ ] [Data Structures & Algorithms (UC San Diego)](https://www.coursera.org/specializations/data-structures-algorithms)
 
-### C++ Programming
-
-### Modern C++ Alternatives (Rust/Z/ Carbon)
-
 ### Networking
+ - [ ] [Mike Meters Networking +](https://www.udemy.com/course/comptia-networkplus-certification/?couponCode=LETSLEARNNOWPP) (free on linkedin learning)
+ - [ ] [Understand Distributed Systems](https://www.amazon.com/gp/product/1838430202/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=utsavized0d-20&creative=9325&linkCode=as2&creativeASIN=1838430202&linkId=8f3007bbed9b958980492f5c0bb1105f)
 
-### Cybersecurity
-- [ ] [Cryptography I](https://imp.i384100.net/DVm9ej)
+### C++ Programming
+*TBD*
 
 ### Quant Finance
+*TBD*
+
+### Modern C++ Alternatives (Rust/Z/ Carbon)
+*TBD*
+
+### Cybersecurity
+*TBD*
+
