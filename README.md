@@ -31,6 +31,7 @@
 
 ### Mathematics
  - [ ] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
+ - [ ] [Intro To Calculus](https://www.3blue1brown.com/topics/calculus)
  - [ ] [Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
  - [ ] [Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
  - [ ] Differential Equations Basics
