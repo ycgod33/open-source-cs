@@ -37,7 +37,11 @@ Note III : I created this in the middle of my programming journey so a lot of ba
  - [ ] Differential Equations Basics
  - [ ] [Multivariable Calculus (Khan Academy)](https://www.khanacademy.org/math/multivariable-calculus)
  - [ ] [Multivariable Calculus (MIT OCW)](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+ - [ ] Probability & Statistics
+ - [ ] Advanced Probability
+ - [ ] Advanced Statistics
  - [ ] Vector Calculus
+ - [ ] Schocastic Calculus 
  - [ ] For Fun
    - [ ] Game Theory
    - [ ] Topology
