@@ -21,7 +21,7 @@ Note III : I created this in the middle of my programming journey so a lot of ba
 - [ ] [The Unix Workbench](https://imp.i384100.net/QOXZ4P)
 
 ### Machine Learning
- - [ ] Andrew NG Machine Learning (3 Parts)
+ - [x] Andrew NG Machine Learning (3 Parts)
  - [ ] Andrew NG Deep Learning 
  - [ ] Andrej Kapathy Neural Networks
  - [ ] [Machine Learning Mathematics Book](https://mml-book.github.io/)
@@ -30,8 +30,8 @@ Note III : I created this in the middle of my programming journey so a lot of ba
 *TBD*
 
 ### Mathematics
- - [ ] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
- - [ ] [Intro To Calculus](https://www.3blue1brown.com/topics/calculus)
+ - [x] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
+ - [x] [Intro To Calculus](https://www.3blue1brown.com/topics/calculus)
  - [ ] [Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
  - [ ] [Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
  - [ ] Differential Equations Basics
