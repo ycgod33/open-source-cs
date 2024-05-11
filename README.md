@@ -9,7 +9,7 @@
   - [ ] Compiler
   - [ ] Text Editor
 
-### Computer Architecture
+### Computer Theory & System Architecture 
 - [ ] [Computer Sciency Theory](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [ ] [Building A 8-bit Computer](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 - [ ] [Build a Modern Computer from First Principles: From Nand to Tetris I](https://imp.i384100.net/6b13dV)
@@ -24,11 +24,10 @@
  - [ ] Andrew NG Machine Learning (3 Parts)
  - [ ] Andrew NG Deep Learning 
  - [ ] Andrej Kapathy Neural Networks
+ - [ ] [Machine Learning Mathematics Book](https://mml-book.github.io/)
 
 ### LLMs - Training, Inferencing, Expert Systems, Etc.
-
-### Theory
-- [ ] [Computer Science: Algorithms, Theory, and Machines](https://imp.i384100.net/7mVROr)
+*TBD*
 
 ### Mathematics
  - [ ] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
