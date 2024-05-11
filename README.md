@@ -32,16 +32,16 @@
 
 ### Mathematics
  - [ ] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
- - [ ] [Intro To Calculus](https://www.3blue1brown.com/topics/calculus)
- - [ ] Calculus AB
- - [ ] Calculus BC
- - [ ] [Differential Equations Basics](https://www.3blue1brown.com/topics/differential-equations)
- - [ ] [Intermediate Probability](https://www.3blue1brown.com/topics/probability)
- - [ ] Multivariable Calculus
+ - [ ] [Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
+ - [ ] [Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
+ - [ ] Differential Equations Basics
+ - [ ] [Multivariable Calculus (Khan Academy)](https://www.khanacademy.org/math/multivariable-calculus)
+ - [ ] [Multivariable Calculus (MIT OCW)](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
  - [ ] Vector Calculus
  - [ ] For Fun
    - [ ] Game Theory
-   - [ ] [Topology](https://www.3blue1brown.com/topics/topology)
+   - [ ] Topology
+   - [ ] Group Thery
 
 ### Further Python
  - [ ] [Advanced Operators & Tools](https://www.geeksforgeeks.org/advanced-python-tutorials/)
