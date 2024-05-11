@@ -3,11 +3,7 @@
 ### C Programming
 - [ ] [CS50 (Very Basic)](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 - [ ] C Programming : A Modern Approach
-- [ ] Projects
-  - [ ] Image Viewer
-  - [ ] Python Interpreter
-  - [ ] Compiler
-  - [ ] Text Editor
+- [ ] Projects Ideas : Image Viewer, Interpreter (Python)/Compiler, Text Editor
 
 ### Computer Theory & System Architecture 
 - [ ] [Computer Sciency Theory](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
@@ -21,7 +17,7 @@
 - [ ] [The Unix Workbench](https://imp.i384100.net/QOXZ4P)
 
 ### Machine Learning
- - [ ] Andrew NG Machine Learning (3 Parts)
+ - [x] Andrew NG Machine Learning (3 Parts)
  - [ ] Andrew NG Deep Learning 
  - [ ] Andrej Kapathy Neural Networks
  - [ ] [Machine Learning Mathematics Book](https://mml-book.github.io/)
@@ -30,8 +26,8 @@
 *TBD*
 
 ### Mathematics
- - [ ] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
- - [ ] [Intro To Calculus](https://www.3blue1brown.com/topics/calculus)
+ - [x] [Linear Algebra Basics](https://www.3blue1brown.com/topics/linear-algebra)
+ - [x] [Intro To Calculus](https://www.3blue1brown.com/topics/calculus)
  - [ ] [Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
  - [ ] [Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
  - [ ] Differential Equations Basics
@@ -70,4 +66,3 @@
 
 ### Cybersecurity
 *TBD*
-
