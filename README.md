@@ -1,4 +1,8 @@
-## The Open Source Computer Science Degree (Personalized) (For Someone With ~1-3 Years Prior Experience)
+## The Open Source Computer Science Degree
+
+Note I : For Someone With ~1-3 Years Prior Experience
+Note II : This is only for me and extremely custom/personalized so don't take any of the courses at face value
+Note III : I created this in the middle of my programming journey so a lot of basic coding/math courses will be missing
 
 ### C Programming
 - [ ] [CS50 (Very Basic)](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
